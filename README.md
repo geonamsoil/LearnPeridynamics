@@ -1,2 +1,7 @@
 # LearnPeridynamics
-Notebooks for learning peridynamics
+
+A series of notebooks for learning peridynamics
+
+* Build an input file
+* Run a simulation
+* Validation
